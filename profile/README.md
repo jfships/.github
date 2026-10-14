@@ -1,5 +1,3 @@
-# .github
-
 # jfships
 
 Useful tools I build with AI. Free.
@@ -8,7 +6,7 @@ I'm Joseph. Most AI news is noise. I build the tools I actually need and show ho
 
 ## Tools
 
-Nothing public yet. The first ones land alongside the videos.
+- [genome-skills](https://github.com/jfships/genome-skills): build a content brand, find video ideas, make on-brand videos. Three Claude skills.
 
 ## Find me
 
