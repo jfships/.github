@@ -6,7 +6,7 @@ I'm Joseph. Most AI news is noise. I build the tools I actually need and show ho
 
 ## Tools
 
-- [genome-skills](https://github.com/jfships/genome-skills): build a content brand, find video ideas, make on-brand videos. Three Claude skills.
+- [content-genome](https://github.com/jfships/content-genome): build a content brand, find video ideas, make on-brand videos. Three Claude skills.
 
 ## Find me
 
